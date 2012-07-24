@@ -97,6 +97,7 @@ p.strapline span.brand {text-transform: uppercase;}
 	line-height: 42px;
 }
 
+.control label {text-transform: uppercase;}
 .control label span.stop {display: inline;}	
 .control label span.start {display: none;}
 #stopstart:checked~#fruitmachine .control label span.stop {display: none;}
