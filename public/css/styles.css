@@ -71,7 +71,7 @@ p.strapline span.brand {text-transform: uppercase;}
   padding: 4px 10px 4px;
   margin-bottom: 0;
   *margin-left: .3em;
-  font-size: 13px;
+  font-size: 16px;
   line-height: 18px;
   *line-height: 20px;
   color: #333333;
@@ -94,10 +94,10 @@ p.strapline span.brand {text-transform: uppercase;}
 
 	width: 130px;
 	height: 42px;
-	line-height: 42px;
+	line-height: 44px;
+	text-transform: uppercase;
 }
 
-.control label {text-transform: uppercase;}
 .control label span.stop {display: inline;}	
 .control label span.start {display: none;}
 #stopstart:checked~#fruitmachine .control label span.stop {display: none;}
