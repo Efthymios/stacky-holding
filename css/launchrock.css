@@ -1,7 +1,7 @@
 /* Style overrides for LaunchRock widget*/
 
 /* Container/overall styles */
-#launchrock .lrdiscoverwidget {font-family: 'Merriweather', Futura, "Trebuchet MS", Arial, sans-serif;}
+#launchrock .lrdiscoverwidget, #launchrock .lrdiscoverwidget input, #launchrock .lrdiscoverwidget textarea, #launchrock .lrdiscoverwidget select {font-family: 'Merriweather', Futura, "Trebuchet MS", Arial, sans-serif;}
 #launchrock #lrcontent-YHWMKVEW {width: 100%; margin: 0; padding: 0;}
 #launchrock .light-a .site {border: 0; background-color: transparent; border-radius: 0; box-shadow: none;}
 
