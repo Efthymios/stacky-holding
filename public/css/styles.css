@@ -4,6 +4,7 @@ body {font-family: 'Merriweather', Futura, "Trebuchet MS", Arial, sans-serif; ba
 
 #logo {background: transparent url(../img/logo_strip.jpg) 0 0 no-repeat; width: 160px; height: 155px; margin: 0 auto 30px auto; animation: movelogo 1s steps(14, end) infinite;}
 h1 {background: transparent url(../img/logo.png) bottom center no-repeat; height: 29px; text-indent: -9995px; overflow: hidden; margin-top: 15px;}
+a {color: #000; text-decoration: underline;}
 p.strapline {clear: both; color: #2B2B2B; font-size: 24px; margin: 40px 10px; text-align: center; line-height: 36px;}
 p.strapline span.brand {text-transform: uppercase;}
 
