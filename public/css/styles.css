@@ -60,7 +60,7 @@ p.strapline span.brand {text-transform: uppercase;}
 }
 /* Rotate through logo too*/
 @keyframes movelogo {
-	0% {background-position 0 0;}
+	0% {background-position: 0 0;}
 	100% {background-position: 0 -2170px;} 
 }
 
